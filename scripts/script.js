@@ -10,6 +10,14 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "Complicate ya",
+          artist: "Otis McDonald",
+          cover: "https://raw.githubusercontent.com/vocalnutria9174/mini-player/master/img/cover.jpg",
+          source: "https://raw.githubusercontent.com/vocalnutria9174/mini-player/master/mp3/song.mp3",
+          url: "https://www.youtube.com/watch?v=A885cX8PmKo",
+          favorited: true
+        },
+        {
           name: "Mekanın Sahibi",
           artist: "Norm Ender",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
