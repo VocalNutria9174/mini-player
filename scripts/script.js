@@ -16,7 +16,7 @@ new Vue({
           source: "https://raw.githubusercontent.com/vocalnutria9174/mini-player/master/mp3/song.mp3",
           url: "https://www.youtube.com/watch?v=A885cX8PmKo",
           favorited: true
-        }
+        },
         {
           name: "#0 Shell",
           artist: "Dedf1sh",
@@ -24,7 +24,7 @@ new Vue({
           source: "https://qytdl.yonle.repl.co/XAPu2nLNSRI.mp3",
           url: "https://www.youtube.com/watch?v=XAPu2nLNSRI",
           favorited: true
-        }
+        },
         {
           name: "#9 Party",
           artist: "Dedf1sh",
