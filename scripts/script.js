@@ -21,7 +21,7 @@ new Vue({
           name: "#0 Shell",
           artist: "Dedf1sh",
           cover: "https://raw.githubusercontent.com/vocalnutria9174/mini-player/master/img/cover2.jpg",
-          source: "https://qytdl.yonle.repl.co/XAPu2nLNSRI.mp3",
+          source: "https://raw.githubusercontent.com/vocalnutria9174/mini-player/master/mp3/song1.mp3",
           url: "https://www.youtube.com/watch?v=XAPu2nLNSRI",
           favorited: true
         },
