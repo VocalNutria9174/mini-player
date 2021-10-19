@@ -12,24 +12,24 @@ new Vue({
         {
           name: "Complicate ya",
           artist: "Otis McDonald",
-          cover: "https://raw.githubusercontent.com/vocalnutria9174/mini-player/master/img/cover.jpg",
-          source: "https://raw.githubusercontent.com/vocalnutria9174/mini-player/master/mp3/song.mp3",
+          cover: "img/cover.jpg",
+          source: "mp3/song.mp3",
           url: "https://www.youtube.com/watch?v=A885cX8PmKo",
           favorited: true
         },
         {
           name: "#0 Shell",
           artist: "Dedf1sh",
-          cover: "https://raw.githubusercontent.com/vocalnutria9174/mini-player/master/img/cover2.jpg",
-          source: "https://raw.githubusercontent.com/vocalnutria9174/mini-player/master/mp3/song1.mp3",
+          cover: "img/cover2.jpg",
+          source: "mp3/song1.mp3",
           url: "https://www.youtube.com/watch?v=XAPu2nLNSRI",
           favorited: true
         },
         {
           name: "#9 Party",
           artist: "Dedf1sh",
-          cover: "https://raw.githubusercontent.com/vocalnutria9174/mini-player/master/img/cover2.jpg",
-          source: "https://raw.githubusercontent.com/vocalnutria9174/mini-player/master/mp3/song2.mp3",
+          cover: "img/cover2.jpg",
+          source: "mp3/song2.mp3",
           url: "https://www.youtube.com/watch?v=vxnXRmRGDYI",
           favorited: true
         }
