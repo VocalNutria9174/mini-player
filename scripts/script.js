@@ -12,7 +12,7 @@ new Vue({
         {
           name: "The Squid Song",
           artist: "1minecrafthd",
-          cover: "img/squid.jpg",
+          cover: "img/squid.jpeg",
           source: "mp3/squidsong1.mp3",
           url: "https://www.youtube.com/watch?v=QmuQWRjeVbQ",
           favorited: true
