@@ -10,6 +10,14 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "The Squid Song",
+          artist: "1minecrafthd",
+          cover: "img/squid.jpg",
+          source: "mp3/squidsong1.mp3",
+          url: "https://www.youtube.com/watch?v=QmuQWRjeVbQ",
+          favorited: true
+        },
+        {
           name: "Complicate ya",
           artist: "Otis McDonald",
           cover: "img/cover.jpg",
