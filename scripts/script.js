@@ -10,6 +10,14 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "get stickbugged lol (remix)",
+          artist: "CG5",
+          cover: "img/1.jpg",
+          source: "https://qytdl.yonle.repl.co/lGQv9Lb93vA.mp4",
+          url: "https://www.youtube.com/watch?v=lGQv9Lb93vA",
+          favorited: true
+        },
+        {
           name: "The Squid Song",
           artist: "1minecrafthd",
           cover: "img/squid.jpeg",
